@@ -10,6 +10,7 @@ public class LambdaTest {
 
 	/**
 	 * local modify
+	 * modify in server
 	 *
 	 */
 	public static interface Add{
