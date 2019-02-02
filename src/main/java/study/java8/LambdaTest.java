@@ -9,8 +9,7 @@ public class LambdaTest {
 	}
 
 	/**
-	 * ±¾µØÌí¼Ó×¢ÊÍ
-	 * @author yates zhou
+	 * Â±Â¾ÂµÃ˜ÃŒÃ­Â¼Ã“Ã—Â¢ÃŠÃ
 	 *
 	 */
 	public static interface Add{
