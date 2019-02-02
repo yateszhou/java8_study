@@ -7,7 +7,9 @@ public class LambdaTest {
 		int a= add.add(3, 6);
 		System.out.println(a);
 	}
-	
+	/**
+	 add comment in server
+	*/
 	public static interface Add{
 		public int add(int a, int b);
 	}
