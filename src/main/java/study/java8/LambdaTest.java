@@ -7,7 +7,12 @@ public class LambdaTest {
 		int a= add.add(3, 6);
 		System.out.println(a);
 	}
-	
+
+	/**
+	 * ±¾µØÌí¼Ó×¢ÊÍ
+	 * @author yates zhou
+	 *
+	 */
 	public static interface Add{
 		public int add(int a, int b);
 	}
