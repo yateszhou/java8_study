@@ -9,7 +9,7 @@ public class LambdaTest {
 	}
 
 	/**
-	 * ±¾µØÌí¼Ó×¢ÊÍ
+	 * local modify
 	 *
 	 */
 	public static interface Add{
